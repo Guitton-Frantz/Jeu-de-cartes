@@ -1,0 +1,9 @@
+{
+    "name": "distanciel",
+    "scripts": {
+        "docs": "./node_modules/.bin/typedoc"
+    },
+    "devDependencies": {
+        "typedoc": "^0.16.11"
+    }
+}
